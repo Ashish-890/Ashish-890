@@ -20,8 +20,8 @@ Currently exploring **Machine Learning, Python, and Power Systems**.
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [link](http://www.linkedin.com/in/ashish-tripathi2006)  
-- Email: [link](mailto:ashishtripathidyp@gmail.com)
+- LinkedIn:[http://www.linkedin.com/in/ashish-tripathi2006]  
+- Email:[ashishtripathidyp@gmail.com]
 
 ---
 
