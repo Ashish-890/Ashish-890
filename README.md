@@ -1,20 +1,34 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ....
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
-**Ashish-890/Ashish-890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ashish Tripathi
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Electrical+Engineering+Undergrad;Tech+Enthusiast;AI+%26+Machine+Learning+Explorer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 About Me
+Hey! I’m Ashish — passionate about **technology, AI, and problem-solving**.  
+Currently exploring **Machine Learning, Python, and Power Systems**.
+
+---
+
+### 💻 Skills
+- Python: 🟩🟩🟩🟩⬜  
+- Machine Learning: 🟩🟩🟩⬜⬜  
+- HTML: 🟩🟩🟩🟩⬜  
+- CSS: 🟩🟩🟩⬜⬜  
+- JavaScript: 🟩🟩🟩⬜⬜  
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: [link](http://www.linkedin.com/in/ashish-tripathi2006)  
+- Email: [link](mailto:ashishtripathidyp@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+I don’t like coffee ☕❌ … but I run on **curiosity + creativity** instead 🚀
+
+---
+
+### 💡 Quote
+*"The best way to predict the future is to invent it."* – Alan Kay
