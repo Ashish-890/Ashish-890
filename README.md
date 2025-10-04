@@ -26,8 +26,7 @@ I enjoy exploring **Machine Learning, Python, and Power Systems**, and turning i
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ashish-tripathi2006)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishtripathidyp@gmail.com)
-
+📧 Email: [Compose Email](https://mail.google.com/mail/?view=cm&fs=1&to=ashishtripathidyp@gmail.com)
 ---
 
 ### ⚡ Fun Fact
