@@ -53,7 +53,8 @@ Web Development  : ████░░░░░ 40%
 ### 🔧 Tech Interests / Expertise
 ![AI](https://img.shields.io/badge/AI-🤖-yellow?style=for-the-badge)
 ![Power Systems](https://img.shields.io/badge/Power_Systems-⚡-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-🐍-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![Snake](https://img.shields.io/badge/🐍-red?style=for-the-badge)
 ![Web Dev](https://img.shields.io/badge/Web_Development-💻-red?style=for-the-badge)
 
 ---
