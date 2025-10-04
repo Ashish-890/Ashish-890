@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Electrical+Engineering+Undergrad;Tech+Enthusiast;AI+%26+Machine+Learning+Explorer)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishtripathi2006)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-890)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Learning](https://img.shields.io/badge/Learning-Machine%20Learning-orange?style=for-the-badge&logo=readthedocs)
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
